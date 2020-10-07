@@ -2,9 +2,6 @@
 #include <time.h>
 #include <fstream>
 #include <vector>
-#include <algorithm>
-#include <random>
-#include <numeric>
 
 using namespace std;
 
